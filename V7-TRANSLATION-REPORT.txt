@@ -1,0 +1,29 @@
+EMBERROOT V7 COMPLETE TRANSLATION VALIDATION
+Overall status: PASS
+
+[ROOT PACKAGE]
+HTML pages: 547
+en: 109 pages
+de: 109 pages
+cs: 109 pages
+ro: 109 pages
+pl: 109 pages
+Broken internal references: 0
+Non-whitelisted exact English residuals: 0
+Romanian example translation checks: 5/5 passed
+Missing language page targets: 0
+JavaScript syntax: PASS
+
+[TEST PACKAGE]
+HTML pages: 547
+en: 109 pages
+de: 109 pages
+cs: 109 pages
+ro: 109 pages
+pl: 109 pages
+Broken internal references: 0
+Non-whitelisted exact English residuals: 0
+Romanian example translation checks: 5/5 passed
+Missing language page targets: 0
+JavaScript syntax: PASS
+

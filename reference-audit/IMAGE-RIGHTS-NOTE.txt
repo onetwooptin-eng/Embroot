@@ -1,0 +1,7 @@
+REFERENCE IMAGE AUDIT
+
+The uploaded mirror contains 22 actual local image files and references 305 unique image URLs/paths across its saved pages. Many mirrored image placeholders are empty files or point back to remote third-party assets.
+
+Those images have not been redistributed inside the public EmberRoot package. Product names and shop functions were rebuilt, but third-party branding and photography should only be imported after the owner confirms that the business has permission or a valid licence to publish them.
+
+The CSV in this folder records every detected reference for rights verification and later controlled import. EmberRoot's original SVG catalogue illustrations remain active so no product page is left without a visual.

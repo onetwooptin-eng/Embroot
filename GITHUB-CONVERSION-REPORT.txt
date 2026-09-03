@@ -1,0 +1,26 @@
+EMBERROOT BIOFUELS — GITHUB PAGES CONVERSION REPORT
+Date: 2026-09-03
+
+STATUS: READY FOR GITHUB PAGES
+
+Changes completed:
+- Converted PHP-backed contact form to static-compatible FormSubmit AJAX + POST fallback.
+- Converted PHP-backed checkout/order submission to FormSubmit AJAX.
+- Removed contact-submit.php, order-submit.php, order-config.php and .htaccess.
+- Added .nojekyll for GitHub Pages static serving.
+- Added CNAME for emberrootbiofuels.com.
+- Preserved all five language trees and relative site paths.
+- Preserved catalogue/cart/wishlist/compare/account browser-side functionality.
+- Preserved sitemap.xml, robots.txt, manifest.webmanifest, ads.txt and SEO canonicals.
+
+Validation completed:
+- 547 HTML pages checked.
+- 0 broken local href/src references detected.
+- Main JavaScript files passed Node syntax validation.
+- Local HTTP test returned HTTP 200 for root, English home/shop/contact/checkout, German home, 404 page and core app JS.
+
+Deployment note:
+Upload the contents of this ZIP directly into the repository root. Do not upload the ZIP as a nested folder.
+
+Form note:
+FormSubmit may require one-time activation for sales@emberrootbiofuels.com after the first live form submission.

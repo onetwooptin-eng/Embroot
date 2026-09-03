@@ -1,0 +1,9 @@
+EmberRoot Biofuels V5 replaces the previous conflicting header and commerce JavaScript with one application file: assets/js/app-v5.js.
+
+Primary corrections:
+- Full desktop navigation at desktop widths.
+- Working mobile off-canvas navigation only at 960 px and below.
+- Visible cart drawer immediately after product selection.
+- One persistent cart for product, drawer, cart page and checkout.
+- Working quantities, removal, totals and checkout order summary.
+- Search, wishlist, quick view, comparison and account history retained in the unified layer.

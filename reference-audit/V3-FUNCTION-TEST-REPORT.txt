@@ -1,0 +1,34 @@
+EMBERROOT V3 FUNCTION TEST REPORT
+Date: 2026-08-05
+
+Static validation
+- 357 HTML pages generated
+- 38 products across 5 languages
+- 0 broken internal file references
+- Root and /test/ ZIP integrity: PASS
+- site.js syntax: PASS
+- products.js syntax: PASS
+- v3.js syntax: PASS
+
+Browser-DOM interaction tests
+- Product gallery thumbnails: PASS
+- Product compare add/count/drawer: PASS
+- Add to cart and persistent cart count: PASS
+- Reviews panel and review form: PASS
+- Mobile commerce navigation: PASS
+- Cart item rendering: PASS
+- Coupon interface: PASS
+- Delivery estimate interface: PASS
+- Checkout address and country fields: PASS
+- Checkout payment preferences: PASS
+- Place enquiry order control: PASS
+- Local sign-in/register forms: PASS
+- Comparison table rendering: PASS
+- JavaScript page errors in tested flows: NONE
+
+Language path checks
+- Homepage EN to DE: ../de/
+- Shop EN to DE: ../../de/shop/
+- Product EN to DE: ../../../de/products/<same-product>/
+- Nested blog pages preserve the same article in every language.
+- Relative links remain valid in both root and /test/ deployment.

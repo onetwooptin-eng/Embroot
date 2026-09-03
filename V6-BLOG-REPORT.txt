@@ -1,0 +1,11 @@
+EMBERROOT V6 BLOG BUILD REPORT
+==============================
+Languages: 5
+Blog posts per language: 32
+Blog category hubs per language: 6
+Blog index pages per language: 4
+Generated blog article pages: 160
+Generated category hub pages: 30
+Generated index/pagination pages: 20
+Original blog cover images: 32
+Content note: New articles use original wording and structure; the reference site supplied topic and layout direction only.
